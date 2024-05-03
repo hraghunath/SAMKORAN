@@ -1,0 +1,8 @@
+what is method overloading
+A java class should have multiple method having the same name but they are differentiate 
+base on the method argument type of argument and the order of argument then this process
+is called the method overloading
+what is method overriding
+if we construct a new class from an exiting class in such a way that the new clas is able to 
+access all the feature and the propertis of existing class then it is called a method orverriding 
+ 
